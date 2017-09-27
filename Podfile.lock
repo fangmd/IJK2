@@ -1,0 +1,20 @@
+PODS:
+  - NSLogger/ObjC (1.8.3)
+  - NSLogger/Swift (1.8.3):
+    - NSLogger/ObjC
+  - ReachabilitySwift (3)
+  - SnapKit (3.2.0)
+
+DEPENDENCIES:
+  - NSLogger/Swift
+  - ReachabilitySwift
+  - SnapKit (~> 3.0)
+
+SPEC CHECKSUMS:
+  NSLogger: c9b80dbeee1d65eb553647a1f6f1f72171b04808
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+
+PODFILE CHECKSUM: 4147a7e485c58f6780315d8afbce19b5e4f3c60d
+
+COCOAPODS: 1.3.1
